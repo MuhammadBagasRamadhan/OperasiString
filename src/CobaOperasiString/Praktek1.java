@@ -26,8 +26,7 @@ public class Praktek1 {
         System.out.println("isi variabel y : "+ y);
         System.out.println("y adalah kosong : " + y.isEmpty());
         
-        
-                
+       
     }
     
 }
